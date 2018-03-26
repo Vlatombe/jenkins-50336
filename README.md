@@ -1,0 +1,1 @@
+The content of this repository is used for [PluginManagerTest#optionalExtensionCanBeFoundAfterDynamicLoadOfVariant](https://github.com/jenkinsci/jenkins/pull/3370/files#diff-9c707460072342617d2c24d2bb7cd109R551).
